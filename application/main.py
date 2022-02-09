@@ -29,16 +29,12 @@ def main():
             df['date'][x] = df['date'][x].replace('/', '-')
             df['date'][x] = datetime.datetime.strptime(df['date'][x], '%d-%m-%Y')
 
-        # start_date = df['date'][0]
-        # end_index = len(df['date'])
-        # end_date = df['date'][end_index - 1]
-        # wibble = pd.date_range(start_date, end_date)
-        plt.plot(df['date'], df['cumulative_deaths_total'])
+        plt.title = df['nhs_england_region'][0]
+        # plt.plot(df['date'], df['cumulative_deaths_total'])
         figure = plt.figure()
         figure.set_figwidth(18)
-        figure.set_figheight(5)
+        figure.set_figheight(6)
         plt.plot(df['date'], df['cumulative_deaths_total'])
-
 
         print('saving graph')
         plt.savefig(f'{os.getcwd()}\\graphs\\test{i}.png')
