@@ -1,10 +1,47 @@
+import pandas as pd
+
 from import_data import ImportData
 import os
+import datetime
+import matplotlib.pyplot as plt
+from matplotlib.dates import drange
 
 
 def main():
     import_data = ImportData()
-    import_data.convert_csv_to_json(f'{os.getcwd()}\\application\\data\\phe_deaths_age_london.csv')
+    arr = [
+        import_data.read_csv(f'{os.getcwd()}\\data\\EastOfEngland.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\London.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\Midlands.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\NorthEastAndYorkshire.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\NorthWest.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\SouthEast.csv'),
+        import_data.read_csv(f'{os.getcwd()}\\data\\SouthWest.csv'),
+    ]
+
+    for i in range(len(arr)):
+        df = arr[i]
+        del df['new_deaths_with_positive_test']
+        del df['new_deaths_without_positive_test']
+        del df['new_deaths_total']
+
+        for x in range(len(df['date'])):
+            df['date'][x] = df['date'][x].replace('/', '-')
+            df['date'][x] = datetime.datetime.strptime(df['date'][x], '%d-%m-%Y')
+
+        # start_date = df['date'][0]
+        # end_index = len(df['date'])
+        # end_date = df['date'][end_index - 1]
+        # wibble = pd.date_range(start_date, end_date)
+        plt.plot(df['date'], df['cumulative_deaths_total'])
+        figure = plt.figure()
+        figure.set_figwidth(18)
+        figure.set_figheight(5)
+        plt.plot(df['date'], df['cumulative_deaths_total'])
+
+
+        print('saving graph')
+        plt.savefig(f'{os.getcwd()}\\graphs\\test{i}.png')
 
 
 if __name__ == "__main__":
