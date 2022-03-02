@@ -152,5 +152,4 @@ cython_debug/
 .idea/
 
 #User-defined
-application/data/
 application/graphs/

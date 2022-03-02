@@ -1,0 +1,5812 @@
+{
+  "data": [
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-24",
+      "newCasesBySpecimenDate": 60864,
+      "cumCasesBySpecimenDate": 16047716
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-23",
+      "newCasesBySpecimenDate": 83520,
+      "cumCasesBySpecimenDate": 15986852
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-22",
+      "newCasesBySpecimenDate": 69028,
+      "cumCasesBySpecimenDate": 15903332
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-21",
+      "newCasesBySpecimenDate": 78527,
+      "cumCasesBySpecimenDate": 15834304
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-20",
+      "newCasesBySpecimenDate": 86663,
+      "cumCasesBySpecimenDate": 15755777
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-19",
+      "newCasesBySpecimenDate": 96838,
+      "cumCasesBySpecimenDate": 15669114
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-18",
+      "newCasesBySpecimenDate": 102917,
+      "cumCasesBySpecimenDate": 15572276
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-17",
+      "newCasesBySpecimenDate": 114291,
+      "cumCasesBySpecimenDate": 15469359
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-16",
+      "newCasesBySpecimenDate": 84800,
+      "cumCasesBySpecimenDate": 15355068
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-15",
+      "newCasesBySpecimenDate": 68280,
+      "cumCasesBySpecimenDate": 15270268
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-14",
+      "newCasesBySpecimenDate": 75591,
+      "cumCasesBySpecimenDate": 15201988
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-13",
+      "newCasesBySpecimenDate": 84368,
+      "cumCasesBySpecimenDate": 15126397
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-12",
+      "newCasesBySpecimenDate": 90115,
+      "cumCasesBySpecimenDate": 15042029
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-11",
+      "newCasesBySpecimenDate": 101210,
+      "cumCasesBySpecimenDate": 14951914
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-10",
+      "newCasesBySpecimenDate": 116488,
+      "cumCasesBySpecimenDate": 14850704
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-09",
+      "newCasesBySpecimenDate": 83153,
+      "cumCasesBySpecimenDate": 14734216
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-08",
+      "newCasesBySpecimenDate": 81993,
+      "cumCasesBySpecimenDate": 14651063
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-07",
+      "newCasesBySpecimenDate": 105463,
+      "cumCasesBySpecimenDate": 14569070
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-06",
+      "newCasesBySpecimenDate": 150943,
+      "cumCasesBySpecimenDate": 14463607
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-05",
+      "newCasesBySpecimenDate": 195414,
+      "cumCasesBySpecimenDate": 14312664
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-04",
+      "newCasesBySpecimenDate": 245182,
+      "cumCasesBySpecimenDate": 14117250
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-03",
+      "newCasesBySpecimenDate": 204217,
+      "cumCasesBySpecimenDate": 13872068
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-02",
+      "newCasesBySpecimenDate": 162360,
+      "cumCasesBySpecimenDate": 13667851
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2022-01-01",
+      "newCasesBySpecimenDate": 106736,
+      "cumCasesBySpecimenDate": 13505491
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-31",
+      "newCasesBySpecimenDate": 170691,
+      "cumCasesBySpecimenDate": 13398755
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-30",
+      "newCasesBySpecimenDate": 213472,
+      "cumCasesBySpecimenDate": 13228064
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-29",
+      "newCasesBySpecimenDate": 246415,
+      "cumCasesBySpecimenDate": 13014592
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-28",
+      "newCasesBySpecimenDate": 192816,
+      "cumCasesBySpecimenDate": 12768177
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-27",
+      "newCasesBySpecimenDate": 177697,
+      "cumCasesBySpecimenDate": 12575361
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-26",
+      "newCasesBySpecimenDate": 106311,
+      "cumCasesBySpecimenDate": 12397664
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-25",
+      "newCasesBySpecimenDate": 64686,
+      "cumCasesBySpecimenDate": 12291353
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-24",
+      "newCasesBySpecimenDate": 125149,
+      "cumCasesBySpecimenDate": 12226667
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-23",
+      "newCasesBySpecimenDate": 145635,
+      "cumCasesBySpecimenDate": 12101518
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-22",
+      "newCasesBySpecimenDate": 146579,
+      "cumCasesBySpecimenDate": 11955883
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-21",
+      "newCasesBySpecimenDate": 136666,
+      "cumCasesBySpecimenDate": 11809304
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-20",
+      "newCasesBySpecimenDate": 122370,
+      "cumCasesBySpecimenDate": 11672638
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-19",
+      "newCasesBySpecimenDate": 81855,
+      "cumCasesBySpecimenDate": 11550268
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-18",
+      "newCasesBySpecimenDate": 81730,
+      "cumCasesBySpecimenDate": 11468413
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-17",
+      "newCasesBySpecimenDate": 87981,
+      "cumCasesBySpecimenDate": 11386683
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-16",
+      "newCasesBySpecimenDate": 97401,
+      "cumCasesBySpecimenDate": 11298702
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-15",
+      "newCasesBySpecimenDate": 103761,
+      "cumCasesBySpecimenDate": 11201301
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-14",
+      "newCasesBySpecimenDate": 95291,
+      "cumCasesBySpecimenDate": 11097540
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-13",
+      "newCasesBySpecimenDate": 81956,
+      "cumCasesBySpecimenDate": 11002249
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-12",
+      "newCasesBySpecimenDate": 50580,
+      "cumCasesBySpecimenDate": 10920293
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-11",
+      "newCasesBySpecimenDate": 46561,
+      "cumCasesBySpecimenDate": 10869713
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-10",
+      "newCasesBySpecimenDate": 50418,
+      "cumCasesBySpecimenDate": 10823152
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-09",
+      "newCasesBySpecimenDate": 54821,
+      "cumCasesBySpecimenDate": 10772734
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-08",
+      "newCasesBySpecimenDate": 56671,
+      "cumCasesBySpecimenDate": 10717913
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-07",
+      "newCasesBySpecimenDate": 54346,
+      "cumCasesBySpecimenDate": 10661242
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-06",
+      "newCasesBySpecimenDate": 57916,
+      "cumCasesBySpecimenDate": 10606896
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-05",
+      "newCasesBySpecimenDate": 39959,
+      "cumCasesBySpecimenDate": 10548980
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-04",
+      "newCasesBySpecimenDate": 37850,
+      "cumCasesBySpecimenDate": 10509021
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-03",
+      "newCasesBySpecimenDate": 44679,
+      "cumCasesBySpecimenDate": 10471171
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-02",
+      "newCasesBySpecimenDate": 49256,
+      "cumCasesBySpecimenDate": 10426492
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-12-01",
+      "newCasesBySpecimenDate": 53612,
+      "cumCasesBySpecimenDate": 10377236
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-30",
+      "newCasesBySpecimenDate": 54510,
+      "cumCasesBySpecimenDate": 10323624
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-29",
+      "newCasesBySpecimenDate": 55044,
+      "cumCasesBySpecimenDate": 10269114
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-28",
+      "newCasesBySpecimenDate": 38873,
+      "cumCasesBySpecimenDate": 10214070
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-27",
+      "newCasesBySpecimenDate": 32650,
+      "cumCasesBySpecimenDate": 10175197
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-26",
+      "newCasesBySpecimenDate": 38552,
+      "cumCasesBySpecimenDate": 10142547
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-25",
+      "newCasesBySpecimenDate": 42514,
+      "cumCasesBySpecimenDate": 10103995
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-24",
+      "newCasesBySpecimenDate": 45801,
+      "cumCasesBySpecimenDate": 10061481
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-23",
+      "newCasesBySpecimenDate": 47276,
+      "cumCasesBySpecimenDate": 10015680
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-22",
+      "newCasesBySpecimenDate": 49755,
+      "cumCasesBySpecimenDate": 9968404
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-21",
+      "newCasesBySpecimenDate": 36482,
+      "cumCasesBySpecimenDate": 9918649
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-20",
+      "newCasesBySpecimenDate": 34634,
+      "cumCasesBySpecimenDate": 9882167
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-19",
+      "newCasesBySpecimenDate": 38892,
+      "cumCasesBySpecimenDate": 9847533
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-18",
+      "newCasesBySpecimenDate": 43191,
+      "cumCasesBySpecimenDate": 9808641
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-17",
+      "newCasesBySpecimenDate": 44984,
+      "cumCasesBySpecimenDate": 9765450
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-16",
+      "newCasesBySpecimenDate": 45426,
+      "cumCasesBySpecimenDate": 9720466
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-15",
+      "newCasesBySpecimenDate": 49946,
+      "cumCasesBySpecimenDate": 9675040
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-14",
+      "newCasesBySpecimenDate": 34788,
+      "cumCasesBySpecimenDate": 9625094
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-13",
+      "newCasesBySpecimenDate": 32308,
+      "cumCasesBySpecimenDate": 9590306
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-12",
+      "newCasesBySpecimenDate": 37023,
+      "cumCasesBySpecimenDate": 9557998
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-11",
+      "newCasesBySpecimenDate": 40208,
+      "cumCasesBySpecimenDate": 9520975
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-10",
+      "newCasesBySpecimenDate": 42103,
+      "cumCasesBySpecimenDate": 9480767
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-09",
+      "newCasesBySpecimenDate": 41415,
+      "cumCasesBySpecimenDate": 9438664
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-08",
+      "newCasesBySpecimenDate": 43284,
+      "cumCasesBySpecimenDate": 9397249
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-07",
+      "newCasesBySpecimenDate": 29960,
+      "cumCasesBySpecimenDate": 9353965
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-06",
+      "newCasesBySpecimenDate": 26936,
+      "cumCasesBySpecimenDate": 9324005
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-05",
+      "newCasesBySpecimenDate": 29713,
+      "cumCasesBySpecimenDate": 9297069
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-04",
+      "newCasesBySpecimenDate": 33070,
+      "cumCasesBySpecimenDate": 9267356
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-03",
+      "newCasesBySpecimenDate": 35353,
+      "cumCasesBySpecimenDate": 9234286
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-02",
+      "newCasesBySpecimenDate": 37272,
+      "cumCasesBySpecimenDate": 9198933
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-11-01",
+      "newCasesBySpecimenDate": 44214,
+      "cumCasesBySpecimenDate": 9161661
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-31",
+      "newCasesBySpecimenDate": 34118,
+      "cumCasesBySpecimenDate": 9117447
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-30",
+      "newCasesBySpecimenDate": 33001,
+      "cumCasesBySpecimenDate": 9083329
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-29",
+      "newCasesBySpecimenDate": 39515,
+      "cumCasesBySpecimenDate": 9050328
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-28",
+      "newCasesBySpecimenDate": 40619,
+      "cumCasesBySpecimenDate": 9010813
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-27",
+      "newCasesBySpecimenDate": 42251,
+      "cumCasesBySpecimenDate": 8970194
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-26",
+      "newCasesBySpecimenDate": 41392,
+      "cumCasesBySpecimenDate": 8927943
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-25",
+      "newCasesBySpecimenDate": 46612,
+      "cumCasesBySpecimenDate": 8886551
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-24",
+      "newCasesBySpecimenDate": 35110,
+      "cumCasesBySpecimenDate": 8839939
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-23",
+      "newCasesBySpecimenDate": 34519,
+      "cumCasesBySpecimenDate": 8804829
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-22",
+      "newCasesBySpecimenDate": 39962,
+      "cumCasesBySpecimenDate": 8770310
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-21",
+      "newCasesBySpecimenDate": 44404,
+      "cumCasesBySpecimenDate": 8730348
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-20",
+      "newCasesBySpecimenDate": 50802,
+      "cumCasesBySpecimenDate": 8685944
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-19",
+      "newCasesBySpecimenDate": 51553,
+      "cumCasesBySpecimenDate": 8635142
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-18",
+      "newCasesBySpecimenDate": 56670,
+      "cumCasesBySpecimenDate": 8583589
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-17",
+      "newCasesBySpecimenDate": 42956,
+      "cumCasesBySpecimenDate": 8526919
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-16",
+      "newCasesBySpecimenDate": 37251,
+      "cumCasesBySpecimenDate": 8483963
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-15",
+      "newCasesBySpecimenDate": 42845,
+      "cumCasesBySpecimenDate": 8446712
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-14",
+      "newCasesBySpecimenDate": 45588,
+      "cumCasesBySpecimenDate": 8403867
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-13",
+      "newCasesBySpecimenDate": 46959,
+      "cumCasesBySpecimenDate": 8358279
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-12",
+      "newCasesBySpecimenDate": 47454,
+      "cumCasesBySpecimenDate": 8311320
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-11",
+      "newCasesBySpecimenDate": 49424,
+      "cumCasesBySpecimenDate": 8263866
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-10",
+      "newCasesBySpecimenDate": 35806,
+      "cumCasesBySpecimenDate": 8214442
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-09",
+      "newCasesBySpecimenDate": 31695,
+      "cumCasesBySpecimenDate": 8178636
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-08",
+      "newCasesBySpecimenDate": 34979,
+      "cumCasesBySpecimenDate": 8146941
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-07",
+      "newCasesBySpecimenDate": 37819,
+      "cumCasesBySpecimenDate": 8111962
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-06",
+      "newCasesBySpecimenDate": 38583,
+      "cumCasesBySpecimenDate": 8074143
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-05",
+      "newCasesBySpecimenDate": 38594,
+      "cumCasesBySpecimenDate": 8035560
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-04",
+      "newCasesBySpecimenDate": 43037,
+      "cumCasesBySpecimenDate": 7996966
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-03",
+      "newCasesBySpecimenDate": 31469,
+      "cumCasesBySpecimenDate": 7953929
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-02",
+      "newCasesBySpecimenDate": 25874,
+      "cumCasesBySpecimenDate": 7922460
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-10-01",
+      "newCasesBySpecimenDate": 28605,
+      "cumCasesBySpecimenDate": 7896586
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-30",
+      "newCasesBySpecimenDate": 31993,
+      "cumCasesBySpecimenDate": 7867981
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-29",
+      "newCasesBySpecimenDate": 34261,
+      "cumCasesBySpecimenDate": 7835988
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-28",
+      "newCasesBySpecimenDate": 35891,
+      "cumCasesBySpecimenDate": 7801727
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-27",
+      "newCasesBySpecimenDate": 40852,
+      "cumCasesBySpecimenDate": 7765836
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-26",
+      "newCasesBySpecimenDate": 31496,
+      "cumCasesBySpecimenDate": 7724984
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-25",
+      "newCasesBySpecimenDate": 28115,
+      "cumCasesBySpecimenDate": 7693488
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-24",
+      "newCasesBySpecimenDate": 31586,
+      "cumCasesBySpecimenDate": 7665373
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-23",
+      "newCasesBySpecimenDate": 35193,
+      "cumCasesBySpecimenDate": 7633787
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-22",
+      "newCasesBySpecimenDate": 36117,
+      "cumCasesBySpecimenDate": 7598594
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-21",
+      "newCasesBySpecimenDate": 38219,
+      "cumCasesBySpecimenDate": 7562477
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-20",
+      "newCasesBySpecimenDate": 40072,
+      "cumCasesBySpecimenDate": 7524258
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-19",
+      "newCasesBySpecimenDate": 30525,
+      "cumCasesBySpecimenDate": 7484186
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-18",
+      "newCasesBySpecimenDate": 26267,
+      "cumCasesBySpecimenDate": 7453661
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-17",
+      "newCasesBySpecimenDate": 29023,
+      "cumCasesBySpecimenDate": 7427394
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-16",
+      "newCasesBySpecimenDate": 29125,
+      "cumCasesBySpecimenDate": 7398371
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-15",
+      "newCasesBySpecimenDate": 29918,
+      "cumCasesBySpecimenDate": 7369246
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-14",
+      "newCasesBySpecimenDate": 30906,
+      "cumCasesBySpecimenDate": 7339328
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-13",
+      "newCasesBySpecimenDate": 34080,
+      "cumCasesBySpecimenDate": 7308422
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-12",
+      "newCasesBySpecimenDate": 23643,
+      "cumCasesBySpecimenDate": 7274342
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-11",
+      "newCasesBySpecimenDate": 23173,
+      "cumCasesBySpecimenDate": 7250699
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-10",
+      "newCasesBySpecimenDate": 28699,
+      "cumCasesBySpecimenDate": 7227526
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-09",
+      "newCasesBySpecimenDate": 33360,
+      "cumCasesBySpecimenDate": 7198827
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-08",
+      "newCasesBySpecimenDate": 35188,
+      "cumCasesBySpecimenDate": 7165467
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-07",
+      "newCasesBySpecimenDate": 37965,
+      "cumCasesBySpecimenDate": 7130279
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-06",
+      "newCasesBySpecimenDate": 44084,
+      "cumCasesBySpecimenDate": 7092314
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-05",
+      "newCasesBySpecimenDate": 31214,
+      "cumCasesBySpecimenDate": 7048230
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-04",
+      "newCasesBySpecimenDate": 31310,
+      "cumCasesBySpecimenDate": 7017016
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-03",
+      "newCasesBySpecimenDate": 37960,
+      "cumCasesBySpecimenDate": 6985706
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-02",
+      "newCasesBySpecimenDate": 41565,
+      "cumCasesBySpecimenDate": 6947746
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-09-01",
+      "newCasesBySpecimenDate": 42770,
+      "cumCasesBySpecimenDate": 6906181
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-31",
+      "newCasesBySpecimenDate": 44426,
+      "cumCasesBySpecimenDate": 6863411
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-30",
+      "newCasesBySpecimenDate": 34122,
+      "cumCasesBySpecimenDate": 6818985
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-29",
+      "newCasesBySpecimenDate": 25659,
+      "cumCasesBySpecimenDate": 6784863
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-28",
+      "newCasesBySpecimenDate": 27119,
+      "cumCasesBySpecimenDate": 6759204
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-27",
+      "newCasesBySpecimenDate": 33126,
+      "cumCasesBySpecimenDate": 6732085
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-26",
+      "newCasesBySpecimenDate": 36933,
+      "cumCasesBySpecimenDate": 6698959
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-25",
+      "newCasesBySpecimenDate": 38073,
+      "cumCasesBySpecimenDate": 6662026
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-24",
+      "newCasesBySpecimenDate": 36988,
+      "cumCasesBySpecimenDate": 6623953
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-23",
+      "newCasesBySpecimenDate": 38991,
+      "cumCasesBySpecimenDate": 6586965
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-22",
+      "newCasesBySpecimenDate": 28259,
+      "cumCasesBySpecimenDate": 6547974
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-21",
+      "newCasesBySpecimenDate": 28027,
+      "cumCasesBySpecimenDate": 6519715
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-20",
+      "newCasesBySpecimenDate": 31623,
+      "cumCasesBySpecimenDate": 6491688
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-19",
+      "newCasesBySpecimenDate": 35747,
+      "cumCasesBySpecimenDate": 6460065
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-18",
+      "newCasesBySpecimenDate": 37948,
+      "cumCasesBySpecimenDate": 6424318
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-17",
+      "newCasesBySpecimenDate": 37134,
+      "cumCasesBySpecimenDate": 6386370
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-16",
+      "newCasesBySpecimenDate": 36132,
+      "cumCasesBySpecimenDate": 6349236
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-15",
+      "newCasesBySpecimenDate": 24873,
+      "cumCasesBySpecimenDate": 6313104
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-14",
+      "newCasesBySpecimenDate": 24606,
+      "cumCasesBySpecimenDate": 6288231
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-13",
+      "newCasesBySpecimenDate": 28385,
+      "cumCasesBySpecimenDate": 6263625
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-12",
+      "newCasesBySpecimenDate": 31090,
+      "cumCasesBySpecimenDate": 6235240
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-11",
+      "newCasesBySpecimenDate": 32675,
+      "cumCasesBySpecimenDate": 6204150
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-10",
+      "newCasesBySpecimenDate": 30898,
+      "cumCasesBySpecimenDate": 6171475
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-09",
+      "newCasesBySpecimenDate": 31477,
+      "cumCasesBySpecimenDate": 6140577
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-08",
+      "newCasesBySpecimenDate": 22382,
+      "cumCasesBySpecimenDate": 6109100
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-07",
+      "newCasesBySpecimenDate": 22085,
+      "cumCasesBySpecimenDate": 6086718
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-06",
+      "newCasesBySpecimenDate": 27485,
+      "cumCasesBySpecimenDate": 6064633
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-05",
+      "newCasesBySpecimenDate": 31006,
+      "cumCasesBySpecimenDate": 6037148
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-04",
+      "newCasesBySpecimenDate": 31700,
+      "cumCasesBySpecimenDate": 6006142
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-03",
+      "newCasesBySpecimenDate": 29758,
+      "cumCasesBySpecimenDate": 5974442
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-02",
+      "newCasesBySpecimenDate": 29225,
+      "cumCasesBySpecimenDate": 5944684
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-08-01",
+      "newCasesBySpecimenDate": 20467,
+      "cumCasesBySpecimenDate": 5915459
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-31",
+      "newCasesBySpecimenDate": 20115,
+      "cumCasesBySpecimenDate": 5894992
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-30",
+      "newCasesBySpecimenDate": 24227,
+      "cumCasesBySpecimenDate": 5874877
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-29",
+      "newCasesBySpecimenDate": 27859,
+      "cumCasesBySpecimenDate": 5850650
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-28",
+      "newCasesBySpecimenDate": 29595,
+      "cumCasesBySpecimenDate": 5822791
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-27",
+      "newCasesBySpecimenDate": 28987,
+      "cumCasesBySpecimenDate": 5793196
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-26",
+      "newCasesBySpecimenDate": 29330,
+      "cumCasesBySpecimenDate": 5764209
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-25",
+      "newCasesBySpecimenDate": 21721,
+      "cumCasesBySpecimenDate": 5734879
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-24",
+      "newCasesBySpecimenDate": 22409,
+      "cumCasesBySpecimenDate": 5713158
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-23",
+      "newCasesBySpecimenDate": 27203,
+      "cumCasesBySpecimenDate": 5690749
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-22",
+      "newCasesBySpecimenDate": 30678,
+      "cumCasesBySpecimenDate": 5663546
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-21",
+      "newCasesBySpecimenDate": 34861,
+      "cumCasesBySpecimenDate": 5632868
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-20",
+      "newCasesBySpecimenDate": 39001,
+      "cumCasesBySpecimenDate": 5598007
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-19",
+      "newCasesBySpecimenDate": 46821,
+      "cumCasesBySpecimenDate": 5559006
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-18",
+      "newCasesBySpecimenDate": 35428,
+      "cumCasesBySpecimenDate": 5512185
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-17",
+      "newCasesBySpecimenDate": 37789,
+      "cumCasesBySpecimenDate": 5476757
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-16",
+      "newCasesBySpecimenDate": 54164,
+      "cumCasesBySpecimenDate": 5438968
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-15",
+      "newCasesBySpecimenDate": 60683,
+      "cumCasesBySpecimenDate": 5384804
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-14",
+      "newCasesBySpecimenDate": 53770,
+      "cumCasesBySpecimenDate": 5324121
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-13",
+      "newCasesBySpecimenDate": 46694,
+      "cumCasesBySpecimenDate": 5270351
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-12",
+      "newCasesBySpecimenDate": 43619,
+      "cumCasesBySpecimenDate": 5223657
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-11",
+      "newCasesBySpecimenDate": 29996,
+      "cumCasesBySpecimenDate": 5180038
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-10",
+      "newCasesBySpecimenDate": 27851,
+      "cumCasesBySpecimenDate": 5150042
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-09",
+      "newCasesBySpecimenDate": 32193,
+      "cumCasesBySpecimenDate": 5122191
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-08",
+      "newCasesBySpecimenDate": 33322,
+      "cumCasesBySpecimenDate": 5089998
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-07",
+      "newCasesBySpecimenDate": 37780,
+      "cumCasesBySpecimenDate": 5056676
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-06",
+      "newCasesBySpecimenDate": 35333,
+      "cumCasesBySpecimenDate": 5018896
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-05",
+      "newCasesBySpecimenDate": 34158,
+      "cumCasesBySpecimenDate": 4983563
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-04",
+      "newCasesBySpecimenDate": 24651,
+      "cumCasesBySpecimenDate": 4949405
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-03",
+      "newCasesBySpecimenDate": 23547,
+      "cumCasesBySpecimenDate": 4924754
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-02",
+      "newCasesBySpecimenDate": 25768,
+      "cumCasesBySpecimenDate": 4901207
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-07-01",
+      "newCasesBySpecimenDate": 28103,
+      "cumCasesBySpecimenDate": 4875439
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-30",
+      "newCasesBySpecimenDate": 28305,
+      "cumCasesBySpecimenDate": 4847336
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-29",
+      "newCasesBySpecimenDate": 27574,
+      "cumCasesBySpecimenDate": 4819031
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-28",
+      "newCasesBySpecimenDate": 27728,
+      "cumCasesBySpecimenDate": 4791457
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-27",
+      "newCasesBySpecimenDate": 18113,
+      "cumCasesBySpecimenDate": 4763729
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-26",
+      "newCasesBySpecimenDate": 15949,
+      "cumCasesBySpecimenDate": 4745616
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-25",
+      "newCasesBySpecimenDate": 17753,
+      "cumCasesBySpecimenDate": 4729667
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-24",
+      "newCasesBySpecimenDate": 18283,
+      "cumCasesBySpecimenDate": 4711914
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-23",
+      "newCasesBySpecimenDate": 17892,
+      "cumCasesBySpecimenDate": 4693631
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-22",
+      "newCasesBySpecimenDate": 16999,
+      "cumCasesBySpecimenDate": 4675739
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-21",
+      "newCasesBySpecimenDate": 15946,
+      "cumCasesBySpecimenDate": 4658740
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-20",
+      "newCasesBySpecimenDate": 9862,
+      "cumCasesBySpecimenDate": 4642794
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-19",
+      "newCasesBySpecimenDate": 8250,
+      "cumCasesBySpecimenDate": 4632932
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-18",
+      "newCasesBySpecimenDate": 10045,
+      "cumCasesBySpecimenDate": 4624682
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-17",
+      "newCasesBySpecimenDate": 10768,
+      "cumCasesBySpecimenDate": 4614637
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-16",
+      "newCasesBySpecimenDate": 10757,
+      "cumCasesBySpecimenDate": 4603869
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-15",
+      "newCasesBySpecimenDate": 10484,
+      "cumCasesBySpecimenDate": 4593112
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-14",
+      "newCasesBySpecimenDate": 10106,
+      "cumCasesBySpecimenDate": 4582628
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-13",
+      "newCasesBySpecimenDate": 6947,
+      "cumCasesBySpecimenDate": 4572522
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-12",
+      "newCasesBySpecimenDate": 6110,
+      "cumCasesBySpecimenDate": 4565575
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-11",
+      "newCasesBySpecimenDate": 7434,
+      "cumCasesBySpecimenDate": 4559465
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-10",
+      "newCasesBySpecimenDate": 7825,
+      "cumCasesBySpecimenDate": 4552031
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-09",
+      "newCasesBySpecimenDate": 7991,
+      "cumCasesBySpecimenDate": 4544206
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-08",
+      "newCasesBySpecimenDate": 7662,
+      "cumCasesBySpecimenDate": 4536215
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-07",
+      "newCasesBySpecimenDate": 7732,
+      "cumCasesBySpecimenDate": 4528553
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-06",
+      "newCasesBySpecimenDate": 5402,
+      "cumCasesBySpecimenDate": 4520821
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-05",
+      "newCasesBySpecimenDate": 4616,
+      "cumCasesBySpecimenDate": 4515419
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-04",
+      "newCasesBySpecimenDate": 5692,
+      "cumCasesBySpecimenDate": 4510803
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-03",
+      "newCasesBySpecimenDate": 6096,
+      "cumCasesBySpecimenDate": 4505111
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-02",
+      "newCasesBySpecimenDate": 6045,
+      "cumCasesBySpecimenDate": 4499015
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-06-01",
+      "newCasesBySpecimenDate": 5236,
+      "cumCasesBySpecimenDate": 4492970
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-31",
+      "newCasesBySpecimenDate": 3775,
+      "cumCasesBySpecimenDate": 4487734
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-30",
+      "newCasesBySpecimenDate": 3091,
+      "cumCasesBySpecimenDate": 4483959
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-29",
+      "newCasesBySpecimenDate": 2921,
+      "cumCasesBySpecimenDate": 4480868
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-28",
+      "newCasesBySpecimenDate": 3481,
+      "cumCasesBySpecimenDate": 4477947
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-27",
+      "newCasesBySpecimenDate": 3632,
+      "cumCasesBySpecimenDate": 4474466
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-26",
+      "newCasesBySpecimenDate": 3795,
+      "cumCasesBySpecimenDate": 4470834
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-25",
+      "newCasesBySpecimenDate": 3298,
+      "cumCasesBySpecimenDate": 4467039
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-24",
+      "newCasesBySpecimenDate": 3233,
+      "cumCasesBySpecimenDate": 4463741
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-23",
+      "newCasesBySpecimenDate": 2238,
+      "cumCasesBySpecimenDate": 4460508
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-22",
+      "newCasesBySpecimenDate": 1926,
+      "cumCasesBySpecimenDate": 4458270
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-21",
+      "newCasesBySpecimenDate": 2285,
+      "cumCasesBySpecimenDate": 4456344
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-20",
+      "newCasesBySpecimenDate": 2419,
+      "cumCasesBySpecimenDate": 4454059
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-19",
+      "newCasesBySpecimenDate": 2707,
+      "cumCasesBySpecimenDate": 4451640
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-18",
+      "newCasesBySpecimenDate": 2691,
+      "cumCasesBySpecimenDate": 4448933
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-17",
+      "newCasesBySpecimenDate": 2752,
+      "cumCasesBySpecimenDate": 4446242
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-16",
+      "newCasesBySpecimenDate": 1843,
+      "cumCasesBySpecimenDate": 4443490
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-15",
+      "newCasesBySpecimenDate": 1575,
+      "cumCasesBySpecimenDate": 4441647
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-14",
+      "newCasesBySpecimenDate": 1847,
+      "cumCasesBySpecimenDate": 4440072
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-13",
+      "newCasesBySpecimenDate": 2091,
+      "cumCasesBySpecimenDate": 4438225
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-12",
+      "newCasesBySpecimenDate": 2225,
+      "cumCasesBySpecimenDate": 4436134
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-11",
+      "newCasesBySpecimenDate": 2191,
+      "cumCasesBySpecimenDate": 4433909
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-10",
+      "newCasesBySpecimenDate": 2647,
+      "cumCasesBySpecimenDate": 4431718
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-09",
+      "newCasesBySpecimenDate": 2160,
+      "cumCasesBySpecimenDate": 4429071
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-08",
+      "newCasesBySpecimenDate": 1505,
+      "cumCasesBySpecimenDate": 4426911
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-07",
+      "newCasesBySpecimenDate": 1878,
+      "cumCasesBySpecimenDate": 4425406
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-06",
+      "newCasesBySpecimenDate": 2166,
+      "cumCasesBySpecimenDate": 4423528
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-05",
+      "newCasesBySpecimenDate": 2393,
+      "cumCasesBySpecimenDate": 4421362
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-04",
+      "newCasesBySpecimenDate": 2399,
+      "cumCasesBySpecimenDate": 4418969
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-03",
+      "newCasesBySpecimenDate": 1967,
+      "cumCasesBySpecimenDate": 4416570
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-02",
+      "newCasesBySpecimenDate": 1419,
+      "cumCasesBySpecimenDate": 4414603
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-05-01",
+      "newCasesBySpecimenDate": 1354,
+      "cumCasesBySpecimenDate": 4413184
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-30",
+      "newCasesBySpecimenDate": 1703,
+      "cumCasesBySpecimenDate": 4411830
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-29",
+      "newCasesBySpecimenDate": 2082,
+      "cumCasesBySpecimenDate": 4410127
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-28",
+      "newCasesBySpecimenDate": 2354,
+      "cumCasesBySpecimenDate": 4408045
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-27",
+      "newCasesBySpecimenDate": 2047,
+      "cumCasesBySpecimenDate": 4405691
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-26",
+      "newCasesBySpecimenDate": 2443,
+      "cumCasesBySpecimenDate": 4403644
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-25",
+      "newCasesBySpecimenDate": 1987,
+      "cumCasesBySpecimenDate": 4401201
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-24",
+      "newCasesBySpecimenDate": 1460,
+      "cumCasesBySpecimenDate": 4399214
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-23",
+      "newCasesBySpecimenDate": 1887,
+      "cumCasesBySpecimenDate": 4397754
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-22",
+      "newCasesBySpecimenDate": 2249,
+      "cumCasesBySpecimenDate": 4395867
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-21",
+      "newCasesBySpecimenDate": 2538,
+      "cumCasesBySpecimenDate": 4393618
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-20",
+      "newCasesBySpecimenDate": 2362,
+      "cumCasesBySpecimenDate": 4391080
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-19",
+      "newCasesBySpecimenDate": 2596,
+      "cumCasesBySpecimenDate": 4388718
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-18",
+      "newCasesBySpecimenDate": 2430,
+      "cumCasesBySpecimenDate": 4386122
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-17",
+      "newCasesBySpecimenDate": 1632,
+      "cumCasesBySpecimenDate": 4383692
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-16",
+      "newCasesBySpecimenDate": 2352,
+      "cumCasesBySpecimenDate": 4382060
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-15",
+      "newCasesBySpecimenDate": 2187,
+      "cumCasesBySpecimenDate": 4379708
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-14",
+      "newCasesBySpecimenDate": 2395,
+      "cumCasesBySpecimenDate": 4377521
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-13",
+      "newCasesBySpecimenDate": 2331,
+      "cumCasesBySpecimenDate": 4375126
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-12",
+      "newCasesBySpecimenDate": 2712,
+      "cumCasesBySpecimenDate": 4372795
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-11",
+      "newCasesBySpecimenDate": 2258,
+      "cumCasesBySpecimenDate": 4370083
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-10",
+      "newCasesBySpecimenDate": 2254,
+      "cumCasesBySpecimenDate": 4367825
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-09",
+      "newCasesBySpecimenDate": 2779,
+      "cumCasesBySpecimenDate": 4365571
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-08",
+      "newCasesBySpecimenDate": 2982,
+      "cumCasesBySpecimenDate": 4362792
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-07",
+      "newCasesBySpecimenDate": 3093,
+      "cumCasesBySpecimenDate": 4359810
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-06",
+      "newCasesBySpecimenDate": 3118,
+      "cumCasesBySpecimenDate": 4356717
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-05",
+      "newCasesBySpecimenDate": 2615,
+      "cumCasesBySpecimenDate": 4353599
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-04",
+      "newCasesBySpecimenDate": 2294,
+      "cumCasesBySpecimenDate": 4350984
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-03",
+      "newCasesBySpecimenDate": 2407,
+      "cumCasesBySpecimenDate": 4348690
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-02",
+      "newCasesBySpecimenDate": 2624,
+      "cumCasesBySpecimenDate": 4346283
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-04-01",
+      "newCasesBySpecimenDate": 3468,
+      "cumCasesBySpecimenDate": 4343659
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-31",
+      "newCasesBySpecimenDate": 3766,
+      "cumCasesBySpecimenDate": 4340191
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-30",
+      "newCasesBySpecimenDate": 3587,
+      "cumCasesBySpecimenDate": 4336425
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-29",
+      "newCasesBySpecimenDate": 3960,
+      "cumCasesBySpecimenDate": 4332838
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-28",
+      "newCasesBySpecimenDate": 4651,
+      "cumCasesBySpecimenDate": 4328878
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-27",
+      "newCasesBySpecimenDate": 3535,
+      "cumCasesBySpecimenDate": 4324227
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-26",
+      "newCasesBySpecimenDate": 4385,
+      "cumCasesBySpecimenDate": 4320692
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-25",
+      "newCasesBySpecimenDate": 5395,
+      "cumCasesBySpecimenDate": 4316307
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-24",
+      "newCasesBySpecimenDate": 6015,
+      "cumCasesBySpecimenDate": 4310912
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-23",
+      "newCasesBySpecimenDate": 5260,
+      "cumCasesBySpecimenDate": 4304897
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-22",
+      "newCasesBySpecimenDate": 6195,
+      "cumCasesBySpecimenDate": 4299637
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-21",
+      "newCasesBySpecimenDate": 5231,
+      "cumCasesBySpecimenDate": 4293442
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-20",
+      "newCasesBySpecimenDate": 4099,
+      "cumCasesBySpecimenDate": 4288211
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-19",
+      "newCasesBySpecimenDate": 4994,
+      "cumCasesBySpecimenDate": 4284112
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-18",
+      "newCasesBySpecimenDate": 5470,
+      "cumCasesBySpecimenDate": 4279118
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-17",
+      "newCasesBySpecimenDate": 5761,
+      "cumCasesBySpecimenDate": 4273648
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-16",
+      "newCasesBySpecimenDate": 5671,
+      "cumCasesBySpecimenDate": 4267887
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-15",
+      "newCasesBySpecimenDate": 6502,
+      "cumCasesBySpecimenDate": 4262216
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-14",
+      "newCasesBySpecimenDate": 4300,
+      "cumCasesBySpecimenDate": 4255714
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-13",
+      "newCasesBySpecimenDate": 4245,
+      "cumCasesBySpecimenDate": 4251414
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-12",
+      "newCasesBySpecimenDate": 5582,
+      "cumCasesBySpecimenDate": 4247169
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-11",
+      "newCasesBySpecimenDate": 5762,
+      "cumCasesBySpecimenDate": 4241587
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-10",
+      "newCasesBySpecimenDate": 6028,
+      "cumCasesBySpecimenDate": 4235825
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-09",
+      "newCasesBySpecimenDate": 6212,
+      "cumCasesBySpecimenDate": 4229797
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-08",
+      "newCasesBySpecimenDate": 6637,
+      "cumCasesBySpecimenDate": 4223585
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-07",
+      "newCasesBySpecimenDate": 4284,
+      "cumCasesBySpecimenDate": 4216948
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-06",
+      "newCasesBySpecimenDate": 4496,
+      "cumCasesBySpecimenDate": 4212664
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-05",
+      "newCasesBySpecimenDate": 5292,
+      "cumCasesBySpecimenDate": 4208168
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-04",
+      "newCasesBySpecimenDate": 5721,
+      "cumCasesBySpecimenDate": 4202876
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-03",
+      "newCasesBySpecimenDate": 5975,
+      "cumCasesBySpecimenDate": 4197155
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-02",
+      "newCasesBySpecimenDate": 6650,
+      "cumCasesBySpecimenDate": 4191180
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-03-01",
+      "newCasesBySpecimenDate": 6874,
+      "cumCasesBySpecimenDate": 4184530
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-28",
+      "newCasesBySpecimenDate": 4712,
+      "cumCasesBySpecimenDate": 4177656
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-27",
+      "newCasesBySpecimenDate": 4822,
+      "cumCasesBySpecimenDate": 4172944
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-26",
+      "newCasesBySpecimenDate": 6563,
+      "cumCasesBySpecimenDate": 4168122
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-25",
+      "newCasesBySpecimenDate": 7717,
+      "cumCasesBySpecimenDate": 4161559
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-24",
+      "newCasesBySpecimenDate": 8533,
+      "cumCasesBySpecimenDate": 4153842
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-23",
+      "newCasesBySpecimenDate": 9381,
+      "cumCasesBySpecimenDate": 4145309
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-22",
+      "newCasesBySpecimenDate": 11232,
+      "cumCasesBySpecimenDate": 4135928
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-21",
+      "newCasesBySpecimenDate": 7857,
+      "cumCasesBySpecimenDate": 4124696
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-20",
+      "newCasesBySpecimenDate": 8052,
+      "cumCasesBySpecimenDate": 4116839
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-19",
+      "newCasesBySpecimenDate": 10364,
+      "cumCasesBySpecimenDate": 4108787
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-18",
+      "newCasesBySpecimenDate": 11408,
+      "cumCasesBySpecimenDate": 4098423
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-17",
+      "newCasesBySpecimenDate": 11558,
+      "cumCasesBySpecimenDate": 4087015
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-16",
+      "newCasesBySpecimenDate": 12463,
+      "cumCasesBySpecimenDate": 4075457
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-15",
+      "newCasesBySpecimenDate": 14259,
+      "cumCasesBySpecimenDate": 4062994
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-14",
+      "newCasesBySpecimenDate": 8736,
+      "cumCasesBySpecimenDate": 4048735
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-13",
+      "newCasesBySpecimenDate": 8753,
+      "cumCasesBySpecimenDate": 4039999
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-12",
+      "newCasesBySpecimenDate": 12151,
+      "cumCasesBySpecimenDate": 4031246
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-11",
+      "newCasesBySpecimenDate": 12729,
+      "cumCasesBySpecimenDate": 4019095
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-10",
+      "newCasesBySpecimenDate": 13475,
+      "cumCasesBySpecimenDate": 4006366
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-09",
+      "newCasesBySpecimenDate": 13776,
+      "cumCasesBySpecimenDate": 3992891
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-08",
+      "newCasesBySpecimenDate": 15693,
+      "cumCasesBySpecimenDate": 3979115
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-07",
+      "newCasesBySpecimenDate": 11376,
+      "cumCasesBySpecimenDate": 3963422
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-06",
+      "newCasesBySpecimenDate": 11949,
+      "cumCasesBySpecimenDate": 3952046
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-05",
+      "newCasesBySpecimenDate": 15837,
+      "cumCasesBySpecimenDate": 3940097
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-04",
+      "newCasesBySpecimenDate": 17951,
+      "cumCasesBySpecimenDate": 3924260
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-03",
+      "newCasesBySpecimenDate": 19369,
+      "cumCasesBySpecimenDate": 3906309
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-02",
+      "newCasesBySpecimenDate": 19751,
+      "cumCasesBySpecimenDate": 3886940
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-02-01",
+      "newCasesBySpecimenDate": 22323,
+      "cumCasesBySpecimenDate": 3867189
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-31",
+      "newCasesBySpecimenDate": 15375,
+      "cumCasesBySpecimenDate": 3844866
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-30",
+      "newCasesBySpecimenDate": 16664,
+      "cumCasesBySpecimenDate": 3829491
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-29",
+      "newCasesBySpecimenDate": 21765,
+      "cumCasesBySpecimenDate": 3812827
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-28",
+      "newCasesBySpecimenDate": 24131,
+      "cumCasesBySpecimenDate": 3791062
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-27",
+      "newCasesBySpecimenDate": 25659,
+      "cumCasesBySpecimenDate": 3766931
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-26",
+      "newCasesBySpecimenDate": 26958,
+      "cumCasesBySpecimenDate": 3741272
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-25",
+      "newCasesBySpecimenDate": 29885,
+      "cumCasesBySpecimenDate": 3714314
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-24",
+      "newCasesBySpecimenDate": 17130,
+      "cumCasesBySpecimenDate": 3684429
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-23",
+      "newCasesBySpecimenDate": 21815,
+      "cumCasesBySpecimenDate": 3667299
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-22",
+      "newCasesBySpecimenDate": 29505,
+      "cumCasesBySpecimenDate": 3645484
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-21",
+      "newCasesBySpecimenDate": 31621,
+      "cumCasesBySpecimenDate": 3615979
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-20",
+      "newCasesBySpecimenDate": 35036,
+      "cumCasesBySpecimenDate": 3584358
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-19",
+      "newCasesBySpecimenDate": 39438,
+      "cumCasesBySpecimenDate": 3549322
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-18",
+      "newCasesBySpecimenDate": 44716,
+      "cumCasesBySpecimenDate": 3509884
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-17",
+      "newCasesBySpecimenDate": 28824,
+      "cumCasesBySpecimenDate": 3465168
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-16",
+      "newCasesBySpecimenDate": 30503,
+      "cumCasesBySpecimenDate": 3436344
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-15",
+      "newCasesBySpecimenDate": 40361,
+      "cumCasesBySpecimenDate": 3405841
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-14",
+      "newCasesBySpecimenDate": 42365,
+      "cumCasesBySpecimenDate": 3365480
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-13",
+      "newCasesBySpecimenDate": 45377,
+      "cumCasesBySpecimenDate": 3323115
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-12",
+      "newCasesBySpecimenDate": 49356,
+      "cumCasesBySpecimenDate": 3277738
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-11",
+      "newCasesBySpecimenDate": 57103,
+      "cumCasesBySpecimenDate": 3228382
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-10",
+      "newCasesBySpecimenDate": 36355,
+      "cumCasesBySpecimenDate": 3171279
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-09",
+      "newCasesBySpecimenDate": 39098,
+      "cumCasesBySpecimenDate": 3134924
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-08",
+      "newCasesBySpecimenDate": 46987,
+      "cumCasesBySpecimenDate": 3095826
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-07",
+      "newCasesBySpecimenDate": 51963,
+      "cumCasesBySpecimenDate": 3048839
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-06",
+      "newCasesBySpecimenDate": 57403,
+      "cumCasesBySpecimenDate": 2996876
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-05",
+      "newCasesBySpecimenDate": 65089,
+      "cumCasesBySpecimenDate": 2939473
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-04",
+      "newCasesBySpecimenDate": 76161,
+      "cumCasesBySpecimenDate": 2874384
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-03",
+      "newCasesBySpecimenDate": 55159,
+      "cumCasesBySpecimenDate": 2798223
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-02",
+      "newCasesBySpecimenDate": 60378,
+      "cumCasesBySpecimenDate": 2743064
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2021-01-01",
+      "newCasesBySpecimenDate": 31793,
+      "cumCasesBySpecimenDate": 2682686
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-31",
+      "newCasesBySpecimenDate": 52706,
+      "cumCasesBySpecimenDate": 2650893
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-30",
+      "newCasesBySpecimenDate": 70648,
+      "cumCasesBySpecimenDate": 2598187
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-29",
+      "newCasesBySpecimenDate": 81371,
+      "cumCasesBySpecimenDate": 2527539
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-28",
+      "newCasesBySpecimenDate": 45511,
+      "cumCasesBySpecimenDate": 2446168
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-27",
+      "newCasesBySpecimenDate": 47650,
+      "cumCasesBySpecimenDate": 2400657
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-26",
+      "newCasesBySpecimenDate": 40346,
+      "cumCasesBySpecimenDate": 2353007
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-25",
+      "newCasesBySpecimenDate": 14148,
+      "cumCasesBySpecimenDate": 2312661
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-24",
+      "newCasesBySpecimenDate": 31788,
+      "cumCasesBySpecimenDate": 2298513
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-23",
+      "newCasesBySpecimenDate": 42133,
+      "cumCasesBySpecimenDate": 2266725
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-22",
+      "newCasesBySpecimenDate": 45638,
+      "cumCasesBySpecimenDate": 2224592
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-21",
+      "newCasesBySpecimenDate": 47327,
+      "cumCasesBySpecimenDate": 2178954
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-20",
+      "newCasesBySpecimenDate": 32449,
+      "cumCasesBySpecimenDate": 2131627
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-19",
+      "newCasesBySpecimenDate": 25132,
+      "cumCasesBySpecimenDate": 2099178
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-18",
+      "newCasesBySpecimenDate": 35815,
+      "cumCasesBySpecimenDate": 2074046
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-17",
+      "newCasesBySpecimenDate": 33876,
+      "cumCasesBySpecimenDate": 2038231
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-16",
+      "newCasesBySpecimenDate": 34878,
+      "cumCasesBySpecimenDate": 2004355
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-15",
+      "newCasesBySpecimenDate": 33816,
+      "cumCasesBySpecimenDate": 1969477
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-14",
+      "newCasesBySpecimenDate": 34688,
+      "cumCasesBySpecimenDate": 1935661
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-13",
+      "newCasesBySpecimenDate": 21970,
+      "cumCasesBySpecimenDate": 1900973
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-12",
+      "newCasesBySpecimenDate": 19327,
+      "cumCasesBySpecimenDate": 1879003
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-11",
+      "newCasesBySpecimenDate": 24041,
+      "cumCasesBySpecimenDate": 1859676
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-10",
+      "newCasesBySpecimenDate": 22585,
+      "cumCasesBySpecimenDate": 1835635
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-09",
+      "newCasesBySpecimenDate": 21582,
+      "cumCasesBySpecimenDate": 1813050
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-08",
+      "newCasesBySpecimenDate": 20747,
+      "cumCasesBySpecimenDate": 1791468
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-07",
+      "newCasesBySpecimenDate": 21289,
+      "cumCasesBySpecimenDate": 1770721
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-06",
+      "newCasesBySpecimenDate": 13560,
+      "cumCasesBySpecimenDate": 1749432
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-05",
+      "newCasesBySpecimenDate": 12696,
+      "cumCasesBySpecimenDate": 1735872
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-04",
+      "newCasesBySpecimenDate": 15632,
+      "cumCasesBySpecimenDate": 1723176
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-03",
+      "newCasesBySpecimenDate": 15595,
+      "cumCasesBySpecimenDate": 1707544
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-02",
+      "newCasesBySpecimenDate": 16460,
+      "cumCasesBySpecimenDate": 1691949
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-12-01",
+      "newCasesBySpecimenDate": 16435,
+      "cumCasesBySpecimenDate": 1675489
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-30",
+      "newCasesBySpecimenDate": 17976,
+      "cumCasesBySpecimenDate": 1659054
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-29",
+      "newCasesBySpecimenDate": 10671,
+      "cumCasesBySpecimenDate": 1641078
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-28",
+      "newCasesBySpecimenDate": 10940,
+      "cumCasesBySpecimenDate": 1630407
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-27",
+      "newCasesBySpecimenDate": 14343,
+      "cumCasesBySpecimenDate": 1619467
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-26",
+      "newCasesBySpecimenDate": 14549,
+      "cumCasesBySpecimenDate": 1605124
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-25",
+      "newCasesBySpecimenDate": 16598,
+      "cumCasesBySpecimenDate": 1590575
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-24",
+      "newCasesBySpecimenDate": 16445,
+      "cumCasesBySpecimenDate": 1573977
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-23",
+      "newCasesBySpecimenDate": 18742,
+      "cumCasesBySpecimenDate": 1557532
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-22",
+      "newCasesBySpecimenDate": 11726,
+      "cumCasesBySpecimenDate": 1538790
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-21",
+      "newCasesBySpecimenDate": 12340,
+      "cumCasesBySpecimenDate": 1527064
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-20",
+      "newCasesBySpecimenDate": 16831,
+      "cumCasesBySpecimenDate": 1514724
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-19",
+      "newCasesBySpecimenDate": 17738,
+      "cumCasesBySpecimenDate": 1497893
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-18",
+      "newCasesBySpecimenDate": 20729,
+      "cumCasesBySpecimenDate": 1480155
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-17",
+      "newCasesBySpecimenDate": 23139,
+      "cumCasesBySpecimenDate": 1459426
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-16",
+      "newCasesBySpecimenDate": 26554,
+      "cumCasesBySpecimenDate": 1436287
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-15",
+      "newCasesBySpecimenDate": 16004,
+      "cumCasesBySpecimenDate": 1409733
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-14",
+      "newCasesBySpecimenDate": 17970,
+      "cumCasesBySpecimenDate": 1393729
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-13",
+      "newCasesBySpecimenDate": 24010,
+      "cumCasesBySpecimenDate": 1375759
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-12",
+      "newCasesBySpecimenDate": 24443,
+      "cumCasesBySpecimenDate": 1351749
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-11",
+      "newCasesBySpecimenDate": 27328,
+      "cumCasesBySpecimenDate": 1327306
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-10",
+      "newCasesBySpecimenDate": 27374,
+      "cumCasesBySpecimenDate": 1299978
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-09",
+      "newCasesBySpecimenDate": 31038,
+      "cumCasesBySpecimenDate": 1272604
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-08",
+      "newCasesBySpecimenDate": 19938,
+      "cumCasesBySpecimenDate": 1241566
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-07",
+      "newCasesBySpecimenDate": 18496,
+      "cumCasesBySpecimenDate": 1221628
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-06",
+      "newCasesBySpecimenDate": 23317,
+      "cumCasesBySpecimenDate": 1203132
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-05",
+      "newCasesBySpecimenDate": 23710,
+      "cumCasesBySpecimenDate": 1179815
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-04",
+      "newCasesBySpecimenDate": 23643,
+      "cumCasesBySpecimenDate": 1156105
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-03",
+      "newCasesBySpecimenDate": 25571,
+      "cumCasesBySpecimenDate": 1132462
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-02",
+      "newCasesBySpecimenDate": 31490,
+      "cumCasesBySpecimenDate": 1106891
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-11-01",
+      "newCasesBySpecimenDate": 15725,
+      "cumCasesBySpecimenDate": 1075401
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-31",
+      "newCasesBySpecimenDate": 16462,
+      "cumCasesBySpecimenDate": 1059676
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-30",
+      "newCasesBySpecimenDate": 22637,
+      "cumCasesBySpecimenDate": 1043214
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-29",
+      "newCasesBySpecimenDate": 23289,
+      "cumCasesBySpecimenDate": 1020577
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-28",
+      "newCasesBySpecimenDate": 23573,
+      "cumCasesBySpecimenDate": 997288
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-27",
+      "newCasesBySpecimenDate": 24038,
+      "cumCasesBySpecimenDate": 973715
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-26",
+      "newCasesBySpecimenDate": 26498,
+      "cumCasesBySpecimenDate": 949677
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-25",
+      "newCasesBySpecimenDate": 15669,
+      "cumCasesBySpecimenDate": 923179
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-24",
+      "newCasesBySpecimenDate": 16177,
+      "cumCasesBySpecimenDate": 907510
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-23",
+      "newCasesBySpecimenDate": 21393,
+      "cumCasesBySpecimenDate": 891333
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-22",
+      "newCasesBySpecimenDate": 23169,
+      "cumCasesBySpecimenDate": 869940
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-21",
+      "newCasesBySpecimenDate": 25368,
+      "cumCasesBySpecimenDate": 846771
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-20",
+      "newCasesBySpecimenDate": 25235,
+      "cumCasesBySpecimenDate": 821403
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-19",
+      "newCasesBySpecimenDate": 25548,
+      "cumCasesBySpecimenDate": 796168
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-18",
+      "newCasesBySpecimenDate": 14135,
+      "cumCasesBySpecimenDate": 770620
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-17",
+      "newCasesBySpecimenDate": 14684,
+      "cumCasesBySpecimenDate": 756485
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-16",
+      "newCasesBySpecimenDate": 17638,
+      "cumCasesBySpecimenDate": 741801
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-15",
+      "newCasesBySpecimenDate": 18332,
+      "cumCasesBySpecimenDate": 724163
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-14",
+      "newCasesBySpecimenDate": 19615,
+      "cumCasesBySpecimenDate": 705831
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-13",
+      "newCasesBySpecimenDate": 18831,
+      "cumCasesBySpecimenDate": 686216
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-12",
+      "newCasesBySpecimenDate": 19343,
+      "cumCasesBySpecimenDate": 667385
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-11",
+      "newCasesBySpecimenDate": 11988,
+      "cumCasesBySpecimenDate": 648042
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-10",
+      "newCasesBySpecimenDate": 12448,
+      "cumCasesBySpecimenDate": 636054
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-09",
+      "newCasesBySpecimenDate": 15652,
+      "cumCasesBySpecimenDate": 623606
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-08",
+      "newCasesBySpecimenDate": 18137,
+      "cumCasesBySpecimenDate": 607954
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-07",
+      "newCasesBySpecimenDate": 18217,
+      "cumCasesBySpecimenDate": 589817
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-06",
+      "newCasesBySpecimenDate": 16988,
+      "cumCasesBySpecimenDate": 571600
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-05",
+      "newCasesBySpecimenDate": 16491,
+      "cumCasesBySpecimenDate": 554612
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-04",
+      "newCasesBySpecimenDate": 11751,
+      "cumCasesBySpecimenDate": 538121
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-03",
+      "newCasesBySpecimenDate": 11478,
+      "cumCasesBySpecimenDate": 526370
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-02",
+      "newCasesBySpecimenDate": 13625,
+      "cumCasesBySpecimenDate": 514892
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-10-01",
+      "newCasesBySpecimenDate": 13140,
+      "cumCasesBySpecimenDate": 501267
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-30",
+      "newCasesBySpecimenDate": 12489,
+      "cumCasesBySpecimenDate": 488127
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-29",
+      "newCasesBySpecimenDate": 10209,
+      "cumCasesBySpecimenDate": 475638
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-28",
+      "newCasesBySpecimenDate": 9898,
+      "cumCasesBySpecimenDate": 465429
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-27",
+      "newCasesBySpecimenDate": 6948,
+      "cumCasesBySpecimenDate": 455531
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-26",
+      "newCasesBySpecimenDate": 6732,
+      "cumCasesBySpecimenDate": 448583
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-25",
+      "newCasesBySpecimenDate": 7204,
+      "cumCasesBySpecimenDate": 441851
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-24",
+      "newCasesBySpecimenDate": 7577,
+      "cumCasesBySpecimenDate": 434647
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-23",
+      "newCasesBySpecimenDate": 7044,
+      "cumCasesBySpecimenDate": 427070
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-22",
+      "newCasesBySpecimenDate": 6385,
+      "cumCasesBySpecimenDate": 420026
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-21",
+      "newCasesBySpecimenDate": 5588,
+      "cumCasesBySpecimenDate": 413641
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-20",
+      "newCasesBySpecimenDate": 5301,
+      "cumCasesBySpecimenDate": 408053
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-19",
+      "newCasesBySpecimenDate": 4833,
+      "cumCasesBySpecimenDate": 402752
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-18",
+      "newCasesBySpecimenDate": 4935,
+      "cumCasesBySpecimenDate": 397919
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-17",
+      "newCasesBySpecimenDate": 4607,
+      "cumCasesBySpecimenDate": 392984
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-16",
+      "newCasesBySpecimenDate": 4335,
+      "cumCasesBySpecimenDate": 388377
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-15",
+      "newCasesBySpecimenDate": 3528,
+      "cumCasesBySpecimenDate": 384042
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-14",
+      "newCasesBySpecimenDate": 3368,
+      "cumCasesBySpecimenDate": 380514
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-13",
+      "newCasesBySpecimenDate": 2123,
+      "cumCasesBySpecimenDate": 377146
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-12",
+      "newCasesBySpecimenDate": 2647,
+      "cumCasesBySpecimenDate": 375023
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-11",
+      "newCasesBySpecimenDate": 3278,
+      "cumCasesBySpecimenDate": 372376
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-10",
+      "newCasesBySpecimenDate": 3569,
+      "cumCasesBySpecimenDate": 369098
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-09",
+      "newCasesBySpecimenDate": 3323,
+      "cumCasesBySpecimenDate": 365529
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-08",
+      "newCasesBySpecimenDate": 3299,
+      "cumCasesBySpecimenDate": 362206
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-07",
+      "newCasesBySpecimenDate": 3855,
+      "cumCasesBySpecimenDate": 358907
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-06",
+      "newCasesBySpecimenDate": 2428,
+      "cumCasesBySpecimenDate": 355052
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-05",
+      "newCasesBySpecimenDate": 2538,
+      "cumCasesBySpecimenDate": 352624
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-04",
+      "newCasesBySpecimenDate": 3029,
+      "cumCasesBySpecimenDate": 350086
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-03",
+      "newCasesBySpecimenDate": 3085,
+      "cumCasesBySpecimenDate": 347057
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-02",
+      "newCasesBySpecimenDate": 2990,
+      "cumCasesBySpecimenDate": 343972
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-09-01",
+      "newCasesBySpecimenDate": 2237,
+      "cumCasesBySpecimenDate": 340982
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-31",
+      "newCasesBySpecimenDate": 1496,
+      "cumCasesBySpecimenDate": 338745
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-30",
+      "newCasesBySpecimenDate": 1155,
+      "cumCasesBySpecimenDate": 337249
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-29",
+      "newCasesBySpecimenDate": 1216,
+      "cumCasesBySpecimenDate": 336094
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-28",
+      "newCasesBySpecimenDate": 1617,
+      "cumCasesBySpecimenDate": 334878
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-27",
+      "newCasesBySpecimenDate": 1545,
+      "cumCasesBySpecimenDate": 333261
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-26",
+      "newCasesBySpecimenDate": 1343,
+      "cumCasesBySpecimenDate": 331716
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-25",
+      "newCasesBySpecimenDate": 1239,
+      "cumCasesBySpecimenDate": 330373
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-24",
+      "newCasesBySpecimenDate": 1271,
+      "cumCasesBySpecimenDate": 329134
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-23",
+      "newCasesBySpecimenDate": 818,
+      "cumCasesBySpecimenDate": 327863
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-22",
+      "newCasesBySpecimenDate": 821,
+      "cumCasesBySpecimenDate": 327045
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-21",
+      "newCasesBySpecimenDate": 1195,
+      "cumCasesBySpecimenDate": 326224
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-20",
+      "newCasesBySpecimenDate": 1455,
+      "cumCasesBySpecimenDate": 325029
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-19",
+      "newCasesBySpecimenDate": 1238,
+      "cumCasesBySpecimenDate": 323574
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-18",
+      "newCasesBySpecimenDate": 1079,
+      "cumCasesBySpecimenDate": 322336
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-17",
+      "newCasesBySpecimenDate": 1275,
+      "cumCasesBySpecimenDate": 321257
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-16",
+      "newCasesBySpecimenDate": 598,
+      "cumCasesBySpecimenDate": 319982
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-15",
+      "newCasesBySpecimenDate": 694,
+      "cumCasesBySpecimenDate": 319384
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-14",
+      "newCasesBySpecimenDate": 1158,
+      "cumCasesBySpecimenDate": 318690
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-13",
+      "newCasesBySpecimenDate": 1137,
+      "cumCasesBySpecimenDate": 317532
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-12",
+      "newCasesBySpecimenDate": 1203,
+      "cumCasesBySpecimenDate": 316395
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-11",
+      "newCasesBySpecimenDate": 1339,
+      "cumCasesBySpecimenDate": 315192
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-10",
+      "newCasesBySpecimenDate": 1465,
+      "cumCasesBySpecimenDate": 313853
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-09",
+      "newCasesBySpecimenDate": 614,
+      "cumCasesBySpecimenDate": 312388
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-08",
+      "newCasesBySpecimenDate": 696,
+      "cumCasesBySpecimenDate": 311774
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-07",
+      "newCasesBySpecimenDate": 946,
+      "cumCasesBySpecimenDate": 311078
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-06",
+      "newCasesBySpecimenDate": 1083,
+      "cumCasesBySpecimenDate": 310132
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-05",
+      "newCasesBySpecimenDate": 1057,
+      "cumCasesBySpecimenDate": 309049
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-04",
+      "newCasesBySpecimenDate": 1018,
+      "cumCasesBySpecimenDate": 307992
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-03",
+      "newCasesBySpecimenDate": 1037,
+      "cumCasesBySpecimenDate": 306974
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-02",
+      "newCasesBySpecimenDate": 553,
+      "cumCasesBySpecimenDate": 305937
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-08-01",
+      "newCasesBySpecimenDate": 542,
+      "cumCasesBySpecimenDate": 305384
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-31",
+      "newCasesBySpecimenDate": 675,
+      "cumCasesBySpecimenDate": 304842
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-30",
+      "newCasesBySpecimenDate": 923,
+      "cumCasesBySpecimenDate": 304167
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-29",
+      "newCasesBySpecimenDate": 1036,
+      "cumCasesBySpecimenDate": 303244
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-28",
+      "newCasesBySpecimenDate": 841,
+      "cumCasesBySpecimenDate": 302208
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-27",
+      "newCasesBySpecimenDate": 854,
+      "cumCasesBySpecimenDate": 301367
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-26",
+      "newCasesBySpecimenDate": 558,
+      "cumCasesBySpecimenDate": 300513
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-25",
+      "newCasesBySpecimenDate": 523,
+      "cumCasesBySpecimenDate": 299955
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-24",
+      "newCasesBySpecimenDate": 771,
+      "cumCasesBySpecimenDate": 299432
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-23",
+      "newCasesBySpecimenDate": 794,
+      "cumCasesBySpecimenDate": 298661
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-22",
+      "newCasesBySpecimenDate": 794,
+      "cumCasesBySpecimenDate": 297867
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-21",
+      "newCasesBySpecimenDate": 779,
+      "cumCasesBySpecimenDate": 297073
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-20",
+      "newCasesBySpecimenDate": 812,
+      "cumCasesBySpecimenDate": 296294
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-19",
+      "newCasesBySpecimenDate": 444,
+      "cumCasesBySpecimenDate": 295482
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-18",
+      "newCasesBySpecimenDate": 498,
+      "cumCasesBySpecimenDate": 295038
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-17",
+      "newCasesBySpecimenDate": 580,
+      "cumCasesBySpecimenDate": 294540
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-16",
+      "newCasesBySpecimenDate": 705,
+      "cumCasesBySpecimenDate": 293960
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-15",
+      "newCasesBySpecimenDate": 773,
+      "cumCasesBySpecimenDate": 293255
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-14",
+      "newCasesBySpecimenDate": 690,
+      "cumCasesBySpecimenDate": 292482
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-13",
+      "newCasesBySpecimenDate": 733,
+      "cumCasesBySpecimenDate": 291792
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-12",
+      "newCasesBySpecimenDate": 369,
+      "cumCasesBySpecimenDate": 291059
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-11",
+      "newCasesBySpecimenDate": 447,
+      "cumCasesBySpecimenDate": 290690
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-10",
+      "newCasesBySpecimenDate": 566,
+      "cumCasesBySpecimenDate": 290243
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-09",
+      "newCasesBySpecimenDate": 718,
+      "cumCasesBySpecimenDate": 289677
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-08",
+      "newCasesBySpecimenDate": 703,
+      "cumCasesBySpecimenDate": 288959
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-07",
+      "newCasesBySpecimenDate": 605,
+      "cumCasesBySpecimenDate": 288256
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-06",
+      "newCasesBySpecimenDate": 702,
+      "cumCasesBySpecimenDate": 287651
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-05",
+      "newCasesBySpecimenDate": 556,
+      "cumCasesBySpecimenDate": 286949
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-04",
+      "newCasesBySpecimenDate": 401,
+      "cumCasesBySpecimenDate": 286393
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-03",
+      "newCasesBySpecimenDate": 572,
+      "cumCasesBySpecimenDate": 285992
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-02",
+      "newCasesBySpecimenDate": 607,
+      "cumCasesBySpecimenDate": 285420
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-07-01",
+      "newCasesBySpecimenDate": 656,
+      "cumCasesBySpecimenDate": 284813
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-30",
+      "newCasesBySpecimenDate": 618,
+      "cumCasesBySpecimenDate": 284157
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-29",
+      "newCasesBySpecimenDate": 728,
+      "cumCasesBySpecimenDate": 283539
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-28",
+      "newCasesBySpecimenDate": 446,
+      "cumCasesBySpecimenDate": 282811
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-27",
+      "newCasesBySpecimenDate": 652,
+      "cumCasesBySpecimenDate": 282365
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-26",
+      "newCasesBySpecimenDate": 667,
+      "cumCasesBySpecimenDate": 281713
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-25",
+      "newCasesBySpecimenDate": 720,
+      "cumCasesBySpecimenDate": 281046
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-24",
+      "newCasesBySpecimenDate": 775,
+      "cumCasesBySpecimenDate": 280326
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-23",
+      "newCasesBySpecimenDate": 888,
+      "cumCasesBySpecimenDate": 279551
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-22",
+      "newCasesBySpecimenDate": 895,
+      "cumCasesBySpecimenDate": 278663
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-21",
+      "newCasesBySpecimenDate": 635,
+      "cumCasesBySpecimenDate": 277768
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-20",
+      "newCasesBySpecimenDate": 685,
+      "cumCasesBySpecimenDate": 277133
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-19",
+      "newCasesBySpecimenDate": 997,
+      "cumCasesBySpecimenDate": 276448
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-18",
+      "newCasesBySpecimenDate": 1025,
+      "cumCasesBySpecimenDate": 275451
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-17",
+      "newCasesBySpecimenDate": 1013,
+      "cumCasesBySpecimenDate": 274426
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-16",
+      "newCasesBySpecimenDate": 1103,
+      "cumCasesBySpecimenDate": 273413
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-15",
+      "newCasesBySpecimenDate": 1043,
+      "cumCasesBySpecimenDate": 272310
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-14",
+      "newCasesBySpecimenDate": 819,
+      "cumCasesBySpecimenDate": 271267
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-13",
+      "newCasesBySpecimenDate": 887,
+      "cumCasesBySpecimenDate": 270448
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-12",
+      "newCasesBySpecimenDate": 1058,
+      "cumCasesBySpecimenDate": 269561
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-11",
+      "newCasesBySpecimenDate": 1008,
+      "cumCasesBySpecimenDate": 268503
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-10",
+      "newCasesBySpecimenDate": 1193,
+      "cumCasesBySpecimenDate": 267495
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-09",
+      "newCasesBySpecimenDate": 1155,
+      "cumCasesBySpecimenDate": 266302
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-08",
+      "newCasesBySpecimenDate": 1092,
+      "cumCasesBySpecimenDate": 265147
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-07",
+      "newCasesBySpecimenDate": 722,
+      "cumCasesBySpecimenDate": 264055
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-06",
+      "newCasesBySpecimenDate": 808,
+      "cumCasesBySpecimenDate": 263333
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-05",
+      "newCasesBySpecimenDate": 1124,
+      "cumCasesBySpecimenDate": 262525
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-04",
+      "newCasesBySpecimenDate": 1249,
+      "cumCasesBySpecimenDate": 261401
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-03",
+      "newCasesBySpecimenDate": 1356,
+      "cumCasesBySpecimenDate": 260152
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-02",
+      "newCasesBySpecimenDate": 1488,
+      "cumCasesBySpecimenDate": 258796
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-06-01",
+      "newCasesBySpecimenDate": 1437,
+      "cumCasesBySpecimenDate": 257308
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-31",
+      "newCasesBySpecimenDate": 1082,
+      "cumCasesBySpecimenDate": 255871
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-30",
+      "newCasesBySpecimenDate": 1118,
+      "cumCasesBySpecimenDate": 254789
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-29",
+      "newCasesBySpecimenDate": 1527,
+      "cumCasesBySpecimenDate": 253671
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-28",
+      "newCasesBySpecimenDate": 1758,
+      "cumCasesBySpecimenDate": 252144
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-27",
+      "newCasesBySpecimenDate": 1824,
+      "cumCasesBySpecimenDate": 250386
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-26",
+      "newCasesBySpecimenDate": 2057,
+      "cumCasesBySpecimenDate": 248562
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-25",
+      "newCasesBySpecimenDate": 1613,
+      "cumCasesBySpecimenDate": 246505
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-24",
+      "newCasesBySpecimenDate": 1362,
+      "cumCasesBySpecimenDate": 244892
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-23",
+      "newCasesBySpecimenDate": 1525,
+      "cumCasesBySpecimenDate": 243530
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-22",
+      "newCasesBySpecimenDate": 2051,
+      "cumCasesBySpecimenDate": 242005
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-21",
+      "newCasesBySpecimenDate": 2564,
+      "cumCasesBySpecimenDate": 239954
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-20",
+      "newCasesBySpecimenDate": 2701,
+      "cumCasesBySpecimenDate": 237390
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-19",
+      "newCasesBySpecimenDate": 3045,
+      "cumCasesBySpecimenDate": 234689
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-18",
+      "newCasesBySpecimenDate": 2576,
+      "cumCasesBySpecimenDate": 231644
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-17",
+      "newCasesBySpecimenDate": 1832,
+      "cumCasesBySpecimenDate": 229068
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-16",
+      "newCasesBySpecimenDate": 2078,
+      "cumCasesBySpecimenDate": 227236
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-15",
+      "newCasesBySpecimenDate": 2523,
+      "cumCasesBySpecimenDate": 225158
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-14",
+      "newCasesBySpecimenDate": 2617,
+      "cumCasesBySpecimenDate": 222635
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-13",
+      "newCasesBySpecimenDate": 3310,
+      "cumCasesBySpecimenDate": 220018
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-12",
+      "newCasesBySpecimenDate": 3384,
+      "cumCasesBySpecimenDate": 216708
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-11",
+      "newCasesBySpecimenDate": 3569,
+      "cumCasesBySpecimenDate": 213324
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-10",
+      "newCasesBySpecimenDate": 2318,
+      "cumCasesBySpecimenDate": 209755
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-09",
+      "newCasesBySpecimenDate": 2161,
+      "cumCasesBySpecimenDate": 207437
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-08",
+      "newCasesBySpecimenDate": 3061,
+      "cumCasesBySpecimenDate": 205276
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-07",
+      "newCasesBySpecimenDate": 3769,
+      "cumCasesBySpecimenDate": 202215
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-06",
+      "newCasesBySpecimenDate": 3814,
+      "cumCasesBySpecimenDate": 198446
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-05",
+      "newCasesBySpecimenDate": 3665,
+      "cumCasesBySpecimenDate": 194632
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-04",
+      "newCasesBySpecimenDate": 3388,
+      "cumCasesBySpecimenDate": 190967
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-03",
+      "newCasesBySpecimenDate": 2979,
+      "cumCasesBySpecimenDate": 187579
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-02",
+      "newCasesBySpecimenDate": 3231,
+      "cumCasesBySpecimenDate": 184600
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-05-01",
+      "newCasesBySpecimenDate": 4728,
+      "cumCasesBySpecimenDate": 181369
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-30",
+      "newCasesBySpecimenDate": 4950,
+      "cumCasesBySpecimenDate": 176641
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-29",
+      "newCasesBySpecimenDate": 5420,
+      "cumCasesBySpecimenDate": 171691
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-28",
+      "newCasesBySpecimenDate": 4709,
+      "cumCasesBySpecimenDate": 166271
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-27",
+      "newCasesBySpecimenDate": 4699,
+      "cumCasesBySpecimenDate": 161562
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-26",
+      "newCasesBySpecimenDate": 3467,
+      "cumCasesBySpecimenDate": 156863
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-25",
+      "newCasesBySpecimenDate": 3743,
+      "cumCasesBySpecimenDate": 153396
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-24",
+      "newCasesBySpecimenDate": 4944,
+      "cumCasesBySpecimenDate": 149653
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-23",
+      "newCasesBySpecimenDate": 5144,
+      "cumCasesBySpecimenDate": 144709
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-22",
+      "newCasesBySpecimenDate": 5485,
+      "cumCasesBySpecimenDate": 139565
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-21",
+      "newCasesBySpecimenDate": 4764,
+      "cumCasesBySpecimenDate": 134080
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-20",
+      "newCasesBySpecimenDate": 4409,
+      "cumCasesBySpecimenDate": 129316
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-19",
+      "newCasesBySpecimenDate": 3851,
+      "cumCasesBySpecimenDate": 124907
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-18",
+      "newCasesBySpecimenDate": 4697,
+      "cumCasesBySpecimenDate": 121056
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-17",
+      "newCasesBySpecimenDate": 4931,
+      "cumCasesBySpecimenDate": 116359
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-16",
+      "newCasesBySpecimenDate": 5271,
+      "cumCasesBySpecimenDate": 111428
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-15",
+      "newCasesBySpecimenDate": 5040,
+      "cumCasesBySpecimenDate": 106157
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-14",
+      "newCasesBySpecimenDate": 4300,
+      "cumCasesBySpecimenDate": 101117
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-13",
+      "newCasesBySpecimenDate": 4160,
+      "cumCasesBySpecimenDate": 96817
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-12",
+      "newCasesBySpecimenDate": 3477,
+      "cumCasesBySpecimenDate": 92657
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-11",
+      "newCasesBySpecimenDate": 3556,
+      "cumCasesBySpecimenDate": 89180
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-10",
+      "newCasesBySpecimenDate": 4311,
+      "cumCasesBySpecimenDate": 85624
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-09",
+      "newCasesBySpecimenDate": 4844,
+      "cumCasesBySpecimenDate": 81313
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-08",
+      "newCasesBySpecimenDate": 5116,
+      "cumCasesBySpecimenDate": 76469
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-07",
+      "newCasesBySpecimenDate": 5430,
+      "cumCasesBySpecimenDate": 71353
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-06",
+      "newCasesBySpecimenDate": 5256,
+      "cumCasesBySpecimenDate": 65923
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-05",
+      "newCasesBySpecimenDate": 3583,
+      "cumCasesBySpecimenDate": 60667
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-04",
+      "newCasesBySpecimenDate": 3999,
+      "cumCasesBySpecimenDate": 57084
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-03",
+      "newCasesBySpecimenDate": 4891,
+      "cumCasesBySpecimenDate": 53085
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-02",
+      "newCasesBySpecimenDate": 4860,
+      "cumCasesBySpecimenDate": 48194
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-04-01",
+      "newCasesBySpecimenDate": 4933,
+      "cumCasesBySpecimenDate": 43334
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-31",
+      "newCasesBySpecimenDate": 4509,
+      "cumCasesBySpecimenDate": 38401
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-30",
+      "newCasesBySpecimenDate": 4256,
+      "cumCasesBySpecimenDate": 33892
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-29",
+      "newCasesBySpecimenDate": 2853,
+      "cumCasesBySpecimenDate": 29636
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-28",
+      "newCasesBySpecimenDate": 2814,
+      "cumCasesBySpecimenDate": 26783
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-27",
+      "newCasesBySpecimenDate": 3185,
+      "cumCasesBySpecimenDate": 23969
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-26",
+      "newCasesBySpecimenDate": 3080,
+      "cumCasesBySpecimenDate": 20784
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-25",
+      "newCasesBySpecimenDate": 2694,
+      "cumCasesBySpecimenDate": 17704
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-24",
+      "newCasesBySpecimenDate": 2377,
+      "cumCasesBySpecimenDate": 15010
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-23",
+      "newCasesBySpecimenDate": 2322,
+      "cumCasesBySpecimenDate": 12633
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-22",
+      "newCasesBySpecimenDate": 1373,
+      "cumCasesBySpecimenDate": 10311
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-21",
+      "newCasesBySpecimenDate": 1190,
+      "cumCasesBySpecimenDate": 8938
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-20",
+      "newCasesBySpecimenDate": 1258,
+      "cumCasesBySpecimenDate": 7748
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-19",
+      "newCasesBySpecimenDate": 1049,
+      "cumCasesBySpecimenDate": 6490
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-18",
+      "newCasesBySpecimenDate": 992,
+      "cumCasesBySpecimenDate": 5441
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-17",
+      "newCasesBySpecimenDate": 790,
+      "cumCasesBySpecimenDate": 4449
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-16",
+      "newCasesBySpecimenDate": 601,
+      "cumCasesBySpecimenDate": 3659
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-15",
+      "newCasesBySpecimenDate": 441,
+      "cumCasesBySpecimenDate": 3058
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-14",
+      "newCasesBySpecimenDate": 362,
+      "cumCasesBySpecimenDate": 2617
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-13",
+      "newCasesBySpecimenDate": 480,
+      "cumCasesBySpecimenDate": 2255
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-12",
+      "newCasesBySpecimenDate": 482,
+      "cumCasesBySpecimenDate": 1775
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-11",
+      "newCasesBySpecimenDate": 402,
+      "cumCasesBySpecimenDate": 1293
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-10",
+      "newCasesBySpecimenDate": 266,
+      "cumCasesBySpecimenDate": 891
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-09",
+      "newCasesBySpecimenDate": 147,
+      "cumCasesBySpecimenDate": 625
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-08",
+      "newCasesBySpecimenDate": 57,
+      "cumCasesBySpecimenDate": 478
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-07",
+      "newCasesBySpecimenDate": 68,
+      "cumCasesBySpecimenDate": 421
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-06",
+      "newCasesBySpecimenDate": 81,
+      "cumCasesBySpecimenDate": 353
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-05",
+      "newCasesBySpecimenDate": 50,
+      "cumCasesBySpecimenDate": 272
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-04",
+      "newCasesBySpecimenDate": 56,
+      "cumCasesBySpecimenDate": 222
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-03",
+      "newCasesBySpecimenDate": 58,
+      "cumCasesBySpecimenDate": 166
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-02",
+      "newCasesBySpecimenDate": 39,
+      "cumCasesBySpecimenDate": 108
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-03-01",
+      "newCasesBySpecimenDate": 22,
+      "cumCasesBySpecimenDate": 69
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-29",
+      "newCasesBySpecimenDate": 5,
+      "cumCasesBySpecimenDate": 47
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-28",
+      "newCasesBySpecimenDate": 12,
+      "cumCasesBySpecimenDate": 42
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-27",
+      "newCasesBySpecimenDate": 8,
+      "cumCasesBySpecimenDate": 30
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-26",
+      "newCasesBySpecimenDate": 4,
+      "cumCasesBySpecimenDate": 22
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-25",
+      "newCasesBySpecimenDate": 5,
+      "cumCasesBySpecimenDate": 18
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-24",
+      "newCasesBySpecimenDate": 2,
+      "cumCasesBySpecimenDate": 13
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-23",
+      "newCasesBySpecimenDate": 1,
+      "cumCasesBySpecimenDate": 11
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-22",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 10
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-21",
+      "newCasesBySpecimenDate": 1,
+      "cumCasesBySpecimenDate": 10
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-20",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-19",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-18",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-17",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-16",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-15",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-14",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-13",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-12",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-11",
+      "newCasesBySpecimenDate": 1,
+      "cumCasesBySpecimenDate": 9
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-10",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 8
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-09",
+      "newCasesBySpecimenDate": 1,
+      "cumCasesBySpecimenDate": 8
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-08",
+      "newCasesBySpecimenDate": 4,
+      "cumCasesBySpecimenDate": 7
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-07",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 3
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-06",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 3
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-05",
+      "newCasesBySpecimenDate": 1,
+      "cumCasesBySpecimenDate": 3
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-04",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 2
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-03",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 2
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-02",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 2
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-02-01",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 2
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-01-31",
+      "newCasesBySpecimenDate": 0,
+      "cumCasesBySpecimenDate": 2
+    },
+    {
+      "areaType": "overview",
+      "areaName": "United Kingdom",
+      "areaCode": "K02000001",
+      "date": "2020-01-30",
+      "newCasesBySpecimenDate": 2,
+      "cumCasesBySpecimenDate": 2
+    }
+  ]
+}

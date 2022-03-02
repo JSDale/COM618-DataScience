@@ -19,6 +19,7 @@ def main():
         import_data.read_csv(f'{os.getcwd()}\\data\\SouthWest.csv'),
     ]
 
+    figure = plt.figure()
     for i in range(len(arr)):
         df = arr[i]
         del df['new_deaths_with_positive_test']
@@ -29,12 +30,10 @@ def main():
             df['date'][x] = df['date'][x].replace('/', '-')
             df['date'][x] = datetime.datetime.strptime(df['date'][x], '%d-%m-%Y')
 
-        plt.title = df['nhs_england_region'][0]
-        # plt.plot(df['date'], df['cumulative_deaths_total'])
-        figure = plt.figure()
         figure.set_figwidth(18)
         figure.set_figheight(6)
-        plt.plot(df['date'], df['cumulative_deaths_total'])
+        plt.title(df['nhs_england_region'][0])
+        plt.plot(df['date'], df['cumulative_deaths_total'], label=df['nhs_england_region'][0])
 
         print('saving graph')
         plt.savefig(f'{os.getcwd()}\\graphs\\test{i}.png')
