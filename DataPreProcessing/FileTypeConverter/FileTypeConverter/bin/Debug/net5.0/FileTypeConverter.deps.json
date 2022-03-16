@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FileTypeConverter/1.0.0": {
+        "dependencies": {
+          "LumenWorksCsvReader": "4.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "FileTypeConverter.dll": {}
+        }
+      },
+      "LumenWorksCsvReader/4.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/LumenWorks.Framework.IO.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileTypeConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LumenWorksCsvReader/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CP6bPmDbmV5yT7YwfGxN8Agrdj0nB82b2UitfrnTghqyfF4DXD4UXl8MoCXBz4Ja17bUYqpEDd+qaavh7lwUxg==",
+      "path": "lumenworkscsvreader/4.0.0",
+      "hashPath": "lumenworkscsvreader.4.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    }
+  }
+}

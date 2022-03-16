@@ -1,0 +1,288 @@
+[
+    {
+        "Date":"Mar-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 160},
+            {"SouthEast": 448},
+            {"NorthWest": 380},
+            {"NorthEastAndYorkshire": 313},
+            {"EastOfEngland": 362},
+            {"London": 1406},
+            {"Midlands": 791}
+        ]
+    },
+    {
+        "Date":"Apr-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 842},
+            {"SouthEast": 2096},
+            {"NorthWest": 2911},
+            {"NorthEastAndYorkshire": 2618},
+            {"EastOfEngland": 2133},
+            {"London": 4089},
+            {"Midlands": 3426}
+        ]
+    },
+    {
+        "Date":"May-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 289},
+            {"SouthEast": 788},
+            {"NorthWest": 1132},
+            {"NorthEastAndYorkshire": 1082},
+            {"EastOfEngland": 817},
+            {"London": 720},
+            {"Midlands": 1295}
+        ]
+    },
+    {
+        "Date":"Jun-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 63},
+            {"SouthEast": 289},
+            {"NorthWest": 451},
+            {"NorthEastAndYorkshire": 355},
+            {"EastOfEngland": 237},
+            {"London": 138},
+            {"Midlands": 497}
+        ]
+    },
+    {
+        "Date":"Jul-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 12},
+            {"SouthEast": 131},
+            {"NorthWest": 146},
+            {"NorthEastAndYorkshire": 89},
+            {"EastOfEngland": 77},
+            {"London": 52},
+            {"Midlands": 136}
+        ]
+    },
+    {
+        "Date":"Aug-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 7},
+            {"SouthEast": 43},
+            {"NorthWest": 99},
+            {"NorthEastAndYorkshire": 54},
+            {"EastOfEngland": 29},
+            {"London": 23},
+            {"Midlands": 42}
+        ]
+    },
+    {
+        "Date":"Sep-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 9},
+            {"SouthEast": 54},
+            {"NorthWest": 218},
+            {"NorthEastAndYorkshire": 125},
+            {"EastOfEngland": 25},
+            {"London": 70},
+            {"Midlands": 104}
+        ]
+    },
+    {
+        "Date":"Oct-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 105},
+            {"SouthEast": 172},
+            {"NorthWest": 1287},
+            {"NorthEastAndYorkshire": 870},
+            {"EastOfEngland": 181},
+            {"London": 273},
+            {"Midlands": 619}
+        ]
+    },
+    {
+        "Date":"Nov-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 484},
+            {"SouthEast": 692},
+            {"NorthWest": 2076},
+            {"NorthEastAndYorkshire": 2091},
+            {"EastOfEngland": 554},
+            {"London": 688},
+            {"Midlands": 2075}
+        ]
+    },
+    {
+        "Date":"Dec-2020",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 609},
+            {"SouthEast": 2403},
+            {"NorthWest": 1565},
+            {"NorthEastAndYorkshire": 1822},
+            {"EastOfEngland": 92},
+            {"London": 1757},
+            {"Midlands": 2430}
+        ]
+    },
+    {
+        "Date":"Jan-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 1391},
+            {"SouthEast": 3948},
+            {"NorthWest": 2641},
+            {"NorthEastAndYorkshire": 2469},
+            {"EastOfEngland": 71},
+            {"London": 4756},
+            {"Midlands": 4349}
+        ]
+    },
+    {
+        "Date":"Feb-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 663},
+            {"SouthEast": 1518},
+            {"NorthWest": 1636},
+            {"NorthEastAndYorkshire": 1563},
+            {"EastOfEngland": 21},
+            {"London": 1630},
+            {"Midlands": 2501}
+        ]
+    },
+    {
+        "Date":"Mar-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 127},
+            {"SouthEast": 383},
+            {"NorthWest": 461},
+            {"NorthEastAndYorkshire": 488},
+            {"EastOfEngland": 328},
+            {"London": 371},
+            {"Midlands": 695}
+        ]
+    },
+    {
+        "Date":"Apr-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 42},
+            {"SouthEast": 70},
+            {"NorthWest": 114},
+            {"NorthEastAndYorkshire": 129},
+            {"EastOfEngland": 90},
+            {"London": 112},
+            {"Midlands": 156}
+        ]
+    },
+    {
+        "Date":"May-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 12},
+            {"SouthEast": 23},
+            {"NorthWest": 49},
+            {"NorthEastAndYorkshire": 52},
+            {"EastOfEngland": 28},
+            {"London": 58},
+            {"Midlands": 51}
+        ]
+    },
+    {
+        "Date":"Jun-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 7},
+            {"SouthEast": 24},
+            {"NorthWest": 122},
+            {"NorthEastAndYorkshire": 40},
+            {"EastOfEngland": 19},
+            {"London": 55},
+            {"Midlands": 62}
+        ]
+    },
+    {
+        "Date":"Jul-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 63},
+            {"SouthEast": 84},
+            {"NorthWest": 334},
+            {"NorthEastAndYorkshire": 283},
+            {"EastOfEngland": 84},
+            {"London": 149},
+            {"Midlands": 221}
+        ]
+    },
+    {
+        "Date":"Aug-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 182},
+            {"SouthEast": 192},
+            {"NorthWest": 388},
+            {"NorthEastAndYorkshire": 506},
+            {"EastOfEngland": 206},
+            {"London": 359},
+            {"Midlands": 513}
+        ]
+    },
+    {
+        "Date":"Sep-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 215},
+            {"SouthEast": 273},
+            {"NorthWest": 426},
+            {"NorthEastAndYorkshire": 566},
+            {"EastOfEngland": 280},
+            {"London": 371},
+            {"Midlands": 610}
+        ]
+    },
+    {
+        "Date":"Oct-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 221},
+            {"SouthEast": 261},
+            {"NorthWest": 476},
+            {"NorthEastAndYorkshire": 620},
+            {"EastOfEngland": 273},
+            {"London": 338},
+            {"Midlands": 620}
+        ]
+    },
+    {
+        "Date":"Nov-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 268},
+            {"SouthEast": 345},
+            {"NorthWest": 504},
+            {"NorthEastAndYorkshire": 568},
+            {"EastOfEngland": 335},
+            {"London": 335},
+            {"Midlands": 647}
+        ]
+    },
+    {
+        "Date":"Dec-2021",
+        "Death_by_Location": 
+        [
+            {"SouthWest": 237},
+            {"SouthEast": 690},
+            {"NorthWest": 456},
+            {"NorthEastAndYorkshire": 448},
+            {"EastOfEngland": 6},
+            {"London": 493},
+            {"Midlands": 628}
+        ]
+    }
+]

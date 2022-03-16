@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9ygnVndBZkheQocxsdAa1K7V7Uoi+FMQeWjn+U2NNb6mppKMMp9PVqdoNdmGszg7Co3cYV/n2aA0hAHtZsY4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\University\\COM618-DataScience\\DataPreProcessing\\FileTypeConverter\\FileTypeConverter\\FileTypeConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512",
+    "C:\\Users\\Jacob\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
