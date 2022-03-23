@@ -13,19 +13,17 @@ class LineGraphPlotting:
             del df['new_deaths_total']
 
             for x in range(len(df['date'])):
-                # df_1 = df.copy()
-                df['date'][x] = df['date'][x].replace('/', '-')
-                df['date'][x] = datetime.datetime.strptime(df['date'][x], '%d-%m-%Y')
+                formatted_date = df['date'].iloc[x].replace('/', '-')
+                df['date'].iloc[[x]] = datetime.datetime.strptime(formatted_date, '%d-%m-%Y')
 
             figure.set_figwidth(18)
             figure.set_figheight(6)
             plt.title('Covid-19 Deaths per English Region.')
             region = df['nhs_england_region'][i]
             print(region)
-            df_len = len(df) - 1
-            x_y = (df['date'][df_len], df['cumulative_deaths_total'][df_len])
-            plt.annotate(text=region, xy=x_y)
-            plt.plot(df['date'], df['cumulative_deaths_total'])
+            plt.legend()
+            plt.plot(df['date'], df['cumulative_deaths_total'], label=region)
+            plt.legend()
 
         print('saving graph')
         plt.savefig(save_path)
