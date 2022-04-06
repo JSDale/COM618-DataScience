@@ -3,6 +3,7 @@ import os
 
 from plotting import line_graph
 from import_data import ImportData
+from pre_processing import remove_null_values
 
 
 class MyTestCase(unittest.TestCase):
@@ -19,6 +20,11 @@ class MyTestCase(unittest.TestCase):
             import_data.read_csv(f'{os.getcwd()}\\..\\data\\SouthEast.csv'),
             import_data.read_csv(f'{os.getcwd()}\\..\\data\\SouthWest.csv'),
         ]
+
+        null_processor = remove_null_values.RemoveNullValues
+        for i in range(len(df_arr)):
+            null_processor.drop_not_a_number(df_arr[i])
+
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_region.png'
         lg.plot(df_arr, save_path)
         self.assertEqual(True, True)
