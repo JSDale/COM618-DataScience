@@ -10,9 +10,9 @@ class MyTestCase(unittest.TestCase):
     def test_scatter(self):
         data = import_data.ImportData()
         # data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
-        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         reg = regression.LinearRegression()
-        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly'
         reg.create_scatter_graph(data_frame, save_path)
         self.assertEqual(True, True)
 
