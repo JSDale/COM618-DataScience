@@ -10,12 +10,12 @@ class LinearRegression:
     @staticmethod
     def create_scatter_graph(data_frame, save_path):
         data_frame = processor.RemoveNullValues.drop_not_a_number(data_frame)
-        x = data_frame['Deaths']
-        y = data_frame['Downloads']
+        y = data_frame['Deaths']
+        x = data_frame['Downloads']
         plt.scatter(x, y)
         plt.title('Downloads against Deaths')
-        plt.ylabel('Downloads')
-        plt.xlabel('Deaths')
+        plt.ylabel('Deaths')
+        plt.xlabel('Downloads')
         plt.savefig(save_path)
 
         a, b = np.polyfit(x.values, y.values, 1)
