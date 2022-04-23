@@ -7,19 +7,32 @@ import import_data
 
 class MyTestCase(unittest.TestCase):
 
-    def test_scatter(self):
+    def test_scatter_monthly(self):
         data = import_data.ImportData()
-        # data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
+        reg = regression.LinearRegression()
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly.png'
+        reg.create_scatter_graph(data_frame, save_path)
+        self.assertEqual(True, True)
+
+    def test_scatter_weekly(self):
+        data = import_data.ImportData()
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
         reg.create_scatter_graph(data_frame, save_path)
         self.assertEqual(True, True)
 
-    def test_linear_regression(self):
+    def test_linear_regression_monthly(self):
         data = import_data.ImportData()
-        # data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
+        reg = regression.LinearRegression()
+        reg.apply(data_frame)
+        self.assertEqual(True, True)
+
+    def test_linear_regression_weekly(self):
+        data = import_data.ImportData()
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
         reg.apply(data_frame)
         self.assertEqual(True, True)
