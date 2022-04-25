@@ -13,13 +13,13 @@ class MyTestCase(unittest.TestCase):
         data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         reg = regression.LinearRegression()
-        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly.png'
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly_new.png'
         reg.create_scatter_graph(data_frame, save_path, 'new_deaths', 'new_downloads')
         self.assertEqual(True, True)
 
     def test_scatter_weekly_new(self):
         data = self.data
-        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads_new.csv')
         reg = regression.LinearRegression()
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
         reg.create_scatter_graph(data_frame, save_path, 'new_deaths', 'new_downloads')
@@ -43,7 +43,7 @@ class MyTestCase(unittest.TestCase):
         data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         reg = regression.LinearRegression()
-        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly.png'
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly_cumulative.png'
         reg.create_scatter_graph(data_frame, save_path, 'cumulative_deaths', 'cumulative_downloads')
         self.assertEqual(True, True)
 
@@ -51,7 +51,7 @@ class MyTestCase(unittest.TestCase):
         data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
-        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly_cumulative.png'
         reg.create_scatter_graph(data_frame, save_path, 'cumulative_deaths', 'cumulative_downloads')
         self.assertEqual(True, True)
 
