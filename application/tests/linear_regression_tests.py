@@ -19,7 +19,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_scatter_weekly_new(self):
         data = self.data
-        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads_new.csv')
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
         reg.create_scatter_graph(data_frame, save_path, 'new_deaths', 'new_downloads')
