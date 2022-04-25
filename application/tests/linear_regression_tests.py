@@ -7,34 +7,66 @@ import import_data
 
 class MyTestCase(unittest.TestCase):
 
-    def test_scatter_monthly(self):
-        data = import_data.ImportData()
+    data = import_data.ImportData()
+
+    def test_scatter_monthly_new(self):
+        data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         reg = regression.LinearRegression()
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly.png'
-        reg.create_scatter_graph(data_frame, save_path)
+        reg.create_scatter_graph(data_frame, save_path, 'new_deaths', 'new_downloads')
         self.assertEqual(True, True)
 
-    def test_scatter_weekly(self):
-        data = import_data.ImportData()
+    def test_scatter_weekly_new(self):
+        data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
         save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
-        reg.create_scatter_graph(data_frame, save_path)
+        reg.create_scatter_graph(data_frame, save_path, 'new_deaths', 'new_downloads')
         self.assertEqual(True, True)
 
-    def test_linear_regression_monthly(self):
-        data = import_data.ImportData()
+    def test_linear_regression_monthly_new(self):
+        data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
         reg = regression.LinearRegression()
-        reg.apply(data_frame)
+        reg.apply(data_frame, 'new_deaths', 'new_downloads')
         self.assertEqual(True, True)
 
-    def test_linear_regression_weekly(self):
-        data = import_data.ImportData()
+    def test_linear_regression_weekly_new(self):
+        data = self.data
         data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
         reg = regression.LinearRegression()
-        reg.apply(data_frame)
+        reg.apply(data_frame, 'new_deaths', 'new_downloads')
+        self.assertEqual(True, True)
+
+    def test_scatter_monthly_cumulative(self):
+        data = self.data
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
+        reg = regression.LinearRegression()
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_monthly.png'
+        reg.create_scatter_graph(data_frame, save_path, 'cumulative_deaths', 'cumulative_downloads')
+        self.assertEqual(True, True)
+
+    def test_scatter_weekly_cumulative(self):
+        data = self.data
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
+        reg = regression.LinearRegression()
+        save_path = f'{os.getcwd()}\\..\\graphs\\deaths_per_download_weekly.png'
+        reg.create_scatter_graph(data_frame, save_path, 'cumulative_deaths', 'cumulative_downloads')
+        self.assertEqual(True, True)
+
+    def test_linear_regression_monthly_cumulative(self):
+        data = self.data
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\deaths_against_downloads_per_month.csv')
+        reg = regression.LinearRegression()
+        reg.apply(data_frame, 'cumulative_deaths', 'cumulative_downloads')
+        self.assertEqual(True, True)
+
+    def test_linear_regression_weekly_cumulative(self):
+        data = self.data
+        data_frame = data.read_csv(f'{os.getcwd()}\\..\\data\\weekly_deaths_by_downloads.csv')
+        reg = regression.LinearRegression()
+        reg.apply(data_frame, 'cumulative_deaths', 'cumulative_downloads')
         self.assertEqual(True, True)
 
 
